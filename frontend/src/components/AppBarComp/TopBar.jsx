@@ -10,7 +10,7 @@ export function TopBar(){
         </div>
         <div className="flex">
             <div className="flex flex-col justify-center h-full mr-4">
-                Hello
+                
             </div>
            
             <UserSymbol Alpha={alpha.toUpperCase()}/>
